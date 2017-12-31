@@ -1,0 +1,10 @@
+HRest -T 2 -S train_0_mfc.scp -H HMM1/ZERO -M HMM2 ZERO
+HRest -T 2 -S train_1_mfc.scp -H HMM1/ONE -M HMM2 ONE
+HRest -T 2 -S train_2_mfc.scp -H HMM1/TWO -M HMM2 TWO
+HRest -T 2 -S train_3_mfc.scp -H HMM1/THREE -M HMM2 THREE
+HRest -T 2 -S train_4_mfc.scp -H HMM1/FOUR -M HMM2 FOUR
+HRest -T 2 -S train_5_mfc.scp -H HMM1/FIVE -M HMM2 FIVE
+HRest -T 2 -S train_6_mfc.scp -H HMM1/SIX -M HMM2 SIX
+HRest -T 2 -S train_7_mfc.scp -H HMM1/SEVEN -M HMM2 SEVEN
+HRest -T 2 -S train_8_mfc.scp -H HMM1/EIGHT -M HMM2 EIGHT
+HRest -T 2 -S train_9_mfc.scp -H HMM1/NINE -M HMM2 NINE
