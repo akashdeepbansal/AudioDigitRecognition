@@ -1,0 +1,10 @@
+HInit -T 2 -S train_0_mfc.scp -H HMM0/ZERO -M HMM1 ZERO
+HInit -T 2 -S train_1_mfc.scp -H HMM0/ONE -M HMM1 ONE
+HInit -T 2 -S train_2_mfc.scp -H HMM0/TWO -M HMM1 TWO
+HInit -T 2 -S train_3_mfc.scp -H HMM0/THREE -M HMM1 THREE
+HInit -T 2 -S train_4_mfc.scp -H HMM0/FOUR -M HMM1 FOUR
+HInit -T 2 -S train_5_mfc.scp -H HMM0/FIVE -M HMM1 FIVE
+HInit -T 2 -S train_6_mfc.scp -H HMM0/SIX -M HMM1 SIX
+HInit -T 2 -S train_7_mfc.scp -H HMM0/SEVEN -M HMM1 SEVEN
+HInit -T 2 -S train_8_mfc.scp -H HMM0/EIGHT -M HMM1 EIGHT
+HInit -T 2 -S train_9_mfc.scp -H HMM0/NINE -M HMM1 NINE
